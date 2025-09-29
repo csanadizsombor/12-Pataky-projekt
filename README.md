@@ -1,2 +1,2 @@
-# 12-Pataky-projekt
-Teszt projekt weboldal
+#Ez a céges weboldalam
+órai feladat...
